@@ -1,0 +1,1 @@
+I used a stock data for Tesla stocks for the year 2010 between the months June, July to determine the various trends in the stocks by EDA( Exploratory Data Analysis) and find various correlations using heatmap and usage of other plots.
